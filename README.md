@@ -92,8 +92,34 @@ Remember, your elevator pitch is meant to start a conversation, so if someone as
 
 To keep the conversation going, you may want to think about what questions you might have for your new contact. Whether you finish you pitch or not, these questions can help keep the conversation flowing. Here’s a tip for thinking of questions: People love to talk about themselves and to give advice. Asking someone how they got their start as a developer is a great way to take the connection further.
 
-## Assignment
+## Assignment- Elevator Pitch 
 
-Record your pitch and upload it. Then practice your elevator pitch on three different people and ask for feedback. 
+Record your pitch and upload it. Not sure how to upload your video? Use this [resource](https://support.google.com/youtube/answer/57407?hl=en) that explains how to upload videos to YouTube and also shows how you can update your privacy settings. Then practice your elevator pitch on three different people and ask for feedback on both what worked and what can be improved. 
+
+Create a new Google doc. Remember to title it ""Your Name" + Elevator Pitch."
+
+In the document, include the following
+- Url to your recorded pitch
+- Feedback from person 1 (what worked and what could be improved)
+- Feedback from person 2 (what worked and what could be improved)
+- Feedback from person 3 (what worked and what could be improved)
+
+**Submit** your resume to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Elevator Pitch”
+
+In the body of your email again include:
+
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document 
+
+Update your Careers Prep Tracker sheet with the date submitted.
+
+
  
  <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-30-second-elevator-pitch'>Careers 30 Second Elevator Pitch </a> on Learn.co and start learning to code for free.</p>
