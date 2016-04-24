@@ -90,7 +90,7 @@ A mistake a lot of people make when giving their elevator pitch is they assume t
 
 Remember, your elevator pitch is meant to start a conversation, so if someone asks you a question in the middle of it, welcome the interruption! Don’t try to force your full pitch on your listener if they’re already engaged and want to learn more about a specific thing you mentioned. For example, say you meet someone at a networking event who also attended a programming bootcamp, it’s okay to not finish your pitch and to have the conversation about your experience at Flatiron School—after all, you’ve already achieved your goal of making a meaningful connection.
 
-To keep the conversation going, you may want to think about what questions you might have for your new contact. Whether you finish you pitch or not, these questions can help keep the conversation flowing. Here’s a tip for thinking of questions: People love to talk about themselves and to give advice. Asking someone how they got their start as a developer is a great way to take the connection further.
+To keep the conversation going, you may want to think about what questions you might have for your new contact. Whether you finish your pitch or not, these questions can help keep the conversation flowing. Here’s a tip for thinking of questions: People love to talk about themselves and to give advice. Asking someone how they got their start as a developer is a great way to take the connection further.
 
 ## Assignment- Elevator Pitch 
 
@@ -123,3 +123,5 @@ Update your Careers Prep Tracker sheet with the date submitted.
 
  
  <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-30-second-elevator-pitch'>Careers 30 Second Elevator Pitch </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-30-second-elevator-pitch'>30 Second Elevator Pitch</a> on Learn.co and start learning to code for free.</p>
