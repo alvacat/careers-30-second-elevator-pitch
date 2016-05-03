@@ -7,7 +7,7 @@ After reading through this lesson, students should be able to define what an ele
 
 Throughout your job search, you’ll be prompted for your elevator pitch. It might be at a networking event where someone asks you, “What’s your story?” or in an interview that starts with, “Tell me about yourself.” Also known as a “30-second pitch,” the elevator pitch is your opportunity to tell someone who you are, pique that person’s interest in your skills and experiences, and to make a good first impression.
 
-It would be difficult and ineffective to attempt to tell your full life story in the length of time of na elevator ride. Aim for a short summary of your career progression, leading up to, and after Flatiron School with an emphasis on your professional skills and goals.
+It would be difficult and ineffective to attempt to tell your full life story in the length of time of an elevator ride. Aim for a short summary of your career progression, leading up to, and after Flatiron School with an emphasis on your professional skills and goals.
  
 Your elevator pitch is a foundational part of how you position yourself as a candidate for a job. Nail down this part of your preparation, because the rest will build upon it. Thinking about and saying your elevator pitch may make you uncomfortable. That’s normal—a lot of people feel nervous talking about themselves. Yes, it involves talking about and even selling yourself, but it opens new doors for you and can get a conversation going with a new contact. 
 
