@@ -94,21 +94,20 @@ To keep the conversation going, you may want to think about what questions you m
 
 ## Assignment- Elevator Pitch 
 
-Record your pitch and upload it. Not sure how to upload your video? Use this [resource](https://support.google.com/youtube/answer/57407?hl=en) that explains how to upload videos to YouTube and also shows how you can update your privacy settings. Then practice your elevator pitch on three different people and ask for feedback on both what worked and what can be improved. 
+Record your elevator pitch and upload it to YouTube. 
+Not sure how to upload your video? Use this [resource](https://support.google.com/youtube/answer/57407?hl=en) that explains how to upload videos to YouTube and also shows how you can update your privacy settings. Then practice your elevator pitch on 1-3 different people and ask for feedback on both what worked and what can be improved. 
 
-Create a new Google doc. Remember to title it ""Your Name" + Elevator Pitch."
+Create a new Google doc. Remember to title it "Your Name" + "Elevator Pitch."
 
-In the document, include the following
-- Url to your recorded pitch
+In the document, include the following:
+- Url of your recorded pitch
 - Feedback from person 1 (what worked and what could be improved)
-- Feedback from person 2 (what worked and what could be improved)
-- Feedback from person 3 (what worked and what could be improved)
+- Feedback from person 2 (what worked and what could be improved) -- if applicable
+- Feedback from person 3 (what worked and what could be improved) -- if applicable
 
 **Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
 
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Elevator Pitch”
+Remember in the subject line to include your name and this specific assignment. In this case, your email subject line will be “”Your Name” + "Elevator Pitch”
 
 In the body of your email again include:
 
