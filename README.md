@@ -24,9 +24,9 @@ As you begin drafting your elevator pitch, here are a few things to focus on:
 * What value you bring
 * What you're building 
 
-You’re building a story arc here. You need a narrative that a person can follow. It can start with your education and flow chronologically to present day or it can start with where you are now and what you’re working on, then go into your past a bit and connect the dots. Either way, you’ likely to wrap up with your current professional interests and where you want to take your skills next. Here’s an example:
+You’re building a story arc here. You need a narrative that a person can follow. It can start with your education and flow chronologically to present day or it can start with where you are now and what you’re working on, then go into your past a bit and connect the dots. Either way, you’re likely to wrap up with your current professional interests and where you want to take your skills next. Here’s an example:
 
->“I’m a programmer and recovering attorney. I’m just about to wrap up my training at Flatiron School and I’m excited to combine my years of experience negotiating contracts and working with clients with my new expertise in Ruby on Rails and JavaScript to a new opportunity as a developer.  I’m working on a small front end project for a startup that connects users to standard legal contracts that they can customize to their needs. So far, it’s been a neat combination of my skills and interests and I’d like to find similar opportunities in my next gig.” 
+>“I’m a programmer and recovering attorney. I’m just about to wrap up my training at Flatiron School and I’m excited to combine my years of experience negotiating contracts and working with clients with my new expertise in Ruby on Rails and JavaScript to a new opportunity as a developer. I’m working on a small front end project for a startup that connects users to standard legal contracts that they can customize to their needs. So far, it’s been a neat combination of my skills and interests and I’d like to find similar opportunities in my next gig.” 
 
 If you're looking for inspiration, here are a few questions to ask yourself:
 
