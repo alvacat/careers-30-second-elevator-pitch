@@ -92,7 +92,7 @@ Remember, your elevator pitch is meant to start a conversation, so if someone as
 
 To keep the conversation going, you may want to think about what questions you might have for your new contact. Whether you finish your pitch or not, these questions can help keep the conversation flowing. Here’s a tip for thinking of questions: People love to talk about themselves and to give advice. Asking someone how they got their start as a developer is a great way to take the connection further.
 
-## Assignment- Elevator Pitch 
+## If You Have a Premium Account: Assignment- Elevator Pitch 
 
 Record your elevator pitch and upload it to YouTube. 
 Not sure how to upload your video? Use this [resource](https://support.google.com/youtube/answer/57407?hl=en) that explains how to upload videos to YouTube and also shows how you can update your privacy settings. Then practice your elevator pitch on 1-3 different people and ask for feedback on both what worked and what can be improved. 
