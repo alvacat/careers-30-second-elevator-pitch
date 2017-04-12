@@ -92,33 +92,9 @@ Remember, your elevator pitch is meant to start a conversation, so if someone as
 
 To keep the conversation going, you may want to think about what questions you might have for your new contact. Whether you finish your pitch or not, these questions can help keep the conversation flowing. Here’s a tip for thinking of questions: People love to talk about themselves and to give advice. Asking someone how they got their start as a developer is a great way to take the connection further.
 
-## If You Have a Premium Account: Assignment- Elevator Pitch 
+## Getting Started
 
-Record your elevator pitch and upload it to YouTube. 
-Not sure how to upload your video? Use this [resource](https://support.google.com/youtube/answer/57407?hl=en) that explains how to upload videos to YouTube and also shows how you can update your privacy settings. Then practice your elevator pitch on 1-3 different people and ask for feedback on both what worked and what can be improved. 
+Check out [this short video](https://youtu.be/Sc5c9ftferQ) from Career Services for additional insight into crafting your Elevator Pitch! 
 
-Create a new Google doc. Remember to title it "Your Name" + "Elevator Pitch."
-
-In the document, include the following:
-- Url of your recorded pitch
-- Feedback from person 1 (what worked and what could be improved)
-- Feedback from person 2 (what worked and what could be improved) -- if applicable
-- Feedback from person 3 (what worked and what could be improved) -- if applicable
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment. In this case, your email subject line will be “”Your Name” + "Elevator Pitch”
-
-In the body of your email again include:
-
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document 
-
-Update your Careers Prep Tracker sheet with the date submitted.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-30-second-elevator-pitch'>30 Second Elevator Pitch</a> on Learn.co and start learning to code for free.</p>
