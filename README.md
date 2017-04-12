@@ -92,9 +92,5 @@ Remember, your elevator pitch is meant to start a conversation, so if someone as
 
 To keep the conversation going, you may want to think about what questions you might have for your new contact. Whether you finish your pitch or not, these questions can help keep the conversation flowing. Here’s a tip for thinking of questions: People love to talk about themselves and to give advice. Asking someone how they got their start as a developer is a great way to take the connection further.
 
-## Next Steps
-
-Check out [this short video](https://youtu.be/Sc5c9ftferQ) from Career Services for additional insight into crafting your Elevator Pitch, and begin to work with your coach on the best way to tell your story!
-
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-30-second-elevator-pitch'>30 Second Elevator Pitch</a> on Learn.co and start learning to code for free.</p>
