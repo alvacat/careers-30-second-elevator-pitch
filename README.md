@@ -55,7 +55,6 @@ No one is going to look at you and say “Okay! Now give me your elevator pitch!
 * “Tell me about yourself.”
 * “So, what’s your story?” 
 * “What can I do for you?”
-* “What can I do for you?”
 * “How did you get into [your field of study]?”
 
 
